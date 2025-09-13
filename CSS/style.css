@@ -16,3 +16,8 @@ table, td{
 table{
     width: 100%;
 }
+div>table{
+    border: 1px solid black;
+    width: 50%;
+    border-style: dashed;
+}
